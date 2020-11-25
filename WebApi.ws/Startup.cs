@@ -72,6 +72,7 @@ namespace WebApi.ws
                     ClockSkew = TimeSpan.Zero
                 };
             });
+
             //services.AddAuthentication()
             //    .AddOAuthValidation();
 
